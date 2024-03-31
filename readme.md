@@ -1,4 +1,4 @@
-# [Conhecendo o Estudio de fala ](https://speech.microsoft.com/portal) :books: :pencil2::paperclip:
+# [Conhecendo o Estudio de fala ](https://speech.microsoft.com/portal) :books::pencil2::paperclip:
 
 ## O que é: :book: :eyes:
 
@@ -127,11 +127,14 @@ Se não pretende fazer mais exercícios, exclua todos os recursos que não preci
 
 ## Comentário sobre a aplicação que foi utilizada:🌐📃✏
 
-O Estúdio de Fala Azure e o Language Studio são ferramentas poderosas para processamento de linguagem natural e reconhecimento de fala. O Estúdio de Fala Azure oferece recursos avançados de transcrição de áudio em texto, reconhecimento de voz e tradução de fala em tempo real. Sua precisão e capacidade de lidar com diferentes idiomas tornam-no uma escolha popular para empresas que buscam integrar tecnologias de voz em seus produtos e serviços.
+O Estúdio de Fala Azure e o Language Studio são ferramentas poderosas para processamento de linguagem natural e reconhecimento de fala. 
+
+O Estúdio de Fala Azure oferece recursos avançados de transcrição de áudio em texto, reconhecimento de voz e tradução de fala em tempo real. Sua precisão e capacidade de lidar com diferentes idiomas tornam-no uma escolha popular para empresas que buscam integrar tecnologias de voz em seus produtos e serviços.
 
 Por outro lado, o Language Studio fornece uma gama de funcionalidades de NLP, incluindo análise de sentimentos, extração de entidades e tradução de texto. Sua flexibilidade e facilidade de uso permitem que os desenvolvedores criem aplicativos sofisticados que entendam e respondam à linguagem humana de forma mais natural.
 
 Em conjunto, essas ferramentas oferecem uma experiência abrangente para desenvolvedores e empresas que desejam criar aplicativos com recursos avançados de processamento de linguagem natural e voz. A integração dessas tecnologias pode melhorar significativamente a interação entre humanos e máquinas, abrindo novas possibilidades para automação e personalização de serviços.
 
+Achei muito fácil utilizar essas plataformas e de muita utilidade. eles formam uma dupla imbatível para desenvolvedores e empresas que querem levar suas aplicações para o próximo nível. Com essas ferramentas, é como se desbloqueássemos uma nova dimensão de interação humano-máquina, tornando nossas experiências digitais mais inteligentes e naturais. É tipo ter o futuro nas pontas dos dedos - e é emocionante ver para onde isso pode nos levar! :paperclip:
 ## 😄😁😆👾👻
 Estruturado e organizado por Gustavo Henrique.
